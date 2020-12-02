@@ -1,0 +1,35 @@
+
+h1 {
+    font-size: extra-large;
+    text-align: center; 
+    background-color: blue;
+}
+
+.body {
+    text-align: center; 
+    background-color: yellow
+    margin: 0;
+    padding: 0; 
+}
+.h2 {
+    color: lightgreen;
+}
+
+.p {
+    text-align: left;
+    color: black;  
+
+}
+
+.image {
+    border: solid green 50px; 
+    align-items: center; 
+
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background-color: blue;
+    
+}
